@@ -1,0 +1,2 @@
+# Corona-Real-time-Map
+A Realtime map of corona suspects all over the world. Its an outdated Json file used in the program , But you can update the realtime json file always form https://coronadatascraper.com/#data.json. Just copy the content of Json and paste it in data.json in the source file and you will get update with the realtime map of corona patients. Note : It can be hanged because the number of cases are increasing quickly and the data is huge. So keep calm. Do check the Source code . Please toggle the map in Dark mode , It looks better.
